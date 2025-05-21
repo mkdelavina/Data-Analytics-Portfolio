@@ -1,5 +1,5 @@
 # Data Analytics Portfolio <br>
-This repository contains data analysis projects and excercises I worked on while studying at ReDi School of Digital Integration.
+This repository contains data analysis projects and exercises I worked on while studying at ReDi School of Digital Integration.
 
 ## Python 
 ### Projects
@@ -8,7 +8,7 @@ This repository contains data analysis projects and excercises I worked on while
 - [Employee Attrition - Python Project](https://github.com/mkdelavina/Data-Analytics-Portfolio/blob/main/colab/Employee_Attrition_Python_Project.ipynb)
  <!-- [Colab Link](https://colab.research.google.com/github/mkdelavina/Data-Analytics-Portfolio/blob/main/colab/Employee_Attrition_-_Python_Project.jypnb)-->
   
-### Excercises
+### Exercises
 - [Immobilien Scout 24-part 1](https://github.com/mkdelavina/Data-Analytics-Portfolio/blob/main/colab/Immobilien_Scout_24_part_1.ipynb)
   <!--[Colab Link](https://colab.research.google.com/github/mkdelavina/Data-Analytics-Portfolio/blob/main/colab/Immobilien_Scout_24_part_1.ipynb)-->
 - [Immobilien Scout 24-part 2](https://github.com/mkdelavina/Data-Analytics-Portfolio/blob/main/colab/Immobilien_Scout_24_part_2.ipynb)
@@ -18,3 +18,10 @@ This repository contains data analysis projects and excercises I worked on while
 - [Berlin Rentals](https://github.com/mkdelavina/Data-Analytics-Portfolio/blob/main/colab/Berlin_Rentals.ipynb)
  <!-- [Colab Link](https://colab.research.google.com/github/mkdelavina/Data-Analytics-Portfolio/blob/main/colab/Berlin_Rentals.jypnb)-->
 
+## SQL
+### Projects
+- [Yammer Data Visualization](https://github.com/mkdelavina/Data-Analytics-Portfolio/blob/main/sql/yammer_report.pdf)
+### Exercises
+- [SQL Exercise Part 1](https://github.com/mkdelavina/Data-Analytics-Portfolio/blob/main/sql/sql1.pdf)
+- [SQL Exercise Part 2](https://github.com/mkdelavina/Data-Analytics-Portfolio/blob/main/sql/sql2.pdf)
+- [SQL Exercise Part 3](https://github.com/mkdelavina/Data-Analytics-Portfolio/blob/main/sql/sql3.pdf)
