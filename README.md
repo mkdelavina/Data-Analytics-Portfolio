@@ -3,7 +3,7 @@ This repository contains data analysis projects and excercises I worked on while
 
 ## Python 
 ### Projects
-- [Titanic - Data Exploration and Storytelling](https://github.com/mkdelavina/Data-Analytics-Portfolio/blob/main/ colab/Titanic_-_Data_Exploration_and_Storytelling.jpynb)
+- [Titanic - Data Exploration and Storytelling](https://github.com/mkdelavina/Data-Analytics-Portfolio/blob/main/colab/Titanic_-_Data_Exploration_and_Storytelling.jpynb)
   <!--[Colab Link](https://colab.research.google.com/github/mkdelavina/Data-Analytics-Portfolio/blob/main/colab/Titanic_-_Data_Exploration_and_Storytelling.jpynb)-->
 - [Employee Attrition - Python Project](https://github.com/mkdelavina/Data-Analytics-Portfolio/blob/main/colab/Employee_Attrition_-_Python_Project.jypnb)
  <!-- [Colab Link](https://colab.research.google.com/github/mkdelavina/Data-Analytics-Portfolio/blob/main/colab/Employee_Attrition_-_Python_Project.jypnb)-->
