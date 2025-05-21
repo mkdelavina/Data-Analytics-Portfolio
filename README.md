@@ -1,2 +1,2 @@
 # Data Analytics Portfolio <br>
-This repository contains data analysis projects I worked on for learning purposes.
+This repository contains data analysis projects and excercises I worked on while studying at ReDi School of Digital Integration.
