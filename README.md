@@ -3,12 +3,12 @@ This repository contains data analysis projects and excercises I worked on while
 
 # Table of Contents
 - [Python](##Python)
-  - [Immobilien Scout 24-part 1](###Immobilien-Scout-24-part-1)
-  - [Immobilien Scout 24-part 2](###Immobilien-Scout-24-part-2)
-  - [Statistics Hands on Practice](###Statistics-Hands-on-Practice)
-  - [Berlin Rentals](###Berlin-Rentals)
-  - [Titanic - Data Exploration and Storytelling](###Titanic---Data-Exploration-and-Storytelling)
-  - [Employee Attrition - Python Project](##Employee-Attrition---Pytho-Project)
+[//]: #   - [Immobilien Scout 24-part 1](###Immobilien-Scout-24-part-1)
+[//]: #  - [Immobilien Scout 24-part 2](###Immobilien-Scout-24-part-2)
+[//]: #  - [Statistics Hands on Practice](###Statistics-Hands-on-Practice)
+[//]: #   - [Berlin Rentals](###Berlin-Rentals)
+[//]: #   - [Titanic - Data Exploration and Storytelling](###Titanic---Data-Exploration-and-Storytelling)
+[//]: #  - [Employee Attrition - Python Project](##Employee-Attrition---Pytho-Project)
 
 
 ## Python
