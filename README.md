@@ -13,7 +13,7 @@ This repository contains data analysis projects and excercises I worked on while
 
 ## Python
 ### Immobilien Scout 24-part 1
-  [![Open In Colab](href=\"https://colab.research.google.com/github/mkdelavina/Data-Analytics-Portfolio/blob/main/Immobilien_Scout_24_part_1.ipynb)
+  [Colab Link](https://colab.research.google.com/github/mkdelavina/Data-Analytics-Portfolio/blob/main/Immobilien_Scout_24_part_1.ipynb)
 ### Immobilien Scout 24-part 2
 ### Statistics Hands on Practice
 ### Berlin Rentals
